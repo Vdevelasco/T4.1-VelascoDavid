@@ -1,10 +1,13 @@
 # uiProject
 ## Idea
 La idea es crear una galería para artistas digitales emergentes. Los artistas referenciados en el proyecto figma son reales así como las obras. Se podría hacer una versión considerablemente mejor pero figma tiene sus limitaciones. Habría que hacer un rediseño completo tanto de la estructura como de la navegación del "módulo home" para crear una aplicación con calidad de producción.
-## Enlaces Figma
+## Enlaces
+### Figma
 Desktop: https://www.figma.com/file/HCyDEEE2fvk4yvIvB0nHuR/Untitled?type=design&node-id=0%3A1&mode=dev
 
 Mobile: https://www.figma.com/file/rhhJNW3YY4XMrNC4IcHSmE/Untitled?type=design&node-id=1%3A3&mode=dev
+### Github
+https://vdevelasco.github.io/T4.1-VelascoDavid/
 ## Leyes de UX
 NOTA: Dada la sencillez de la interfaz y que sólo se habla de un elemento o de una visión general se han omitido las caputras de pantalla.
 NOTA 2: Se puede aplicar un razonamiento similar a otras partes de la aplicación pero, en útlima instancia, son las leyes que priman.
