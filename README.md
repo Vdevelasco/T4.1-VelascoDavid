@@ -7,7 +7,8 @@ Desktop: https://www.figma.com/file/HCyDEEE2fvk4yvIvB0nHuR/Untitled?type=design&
 
 Mobile: https://www.figma.com/file/rhhJNW3YY4XMrNC4IcHSmE/Untitled?type=design&node-id=1%3A3&mode=dev
 ### Github
-https://vdevelasco.github.io/T4.1-VelascoDavid/
+Desktop:[ https://vdevelasco.github.io/desktopFigmaTry/](https://vdevelasco.github.io/desktopFigmaTry/)
+Mobile: [ https://vdevelasco.github.io/mobileFigmaTry/](https://vdevelasco.github.io/mobileFigmaTry/)
 ## Leyes de UX
 NOTA: Dada la sencillez de la interfaz y que sólo se habla de un elemento o de una visión general se han omitido las caputras de pantalla.
 NOTA 2: Se puede aplicar un razonamiento similar a otras partes de la aplicación pero, en útlima instancia, son las leyes que priman.
